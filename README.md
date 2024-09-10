@@ -1,4 +1,4 @@
-# Hi, I'm Haris Iqbal 👋
+<h1 align="center">Hi, I'm Haris Iqbal 👋</h1>
 
 <!--
 **Haris-Iqbal-coder/Haris-Iqbal-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
