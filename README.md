@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🎓 Senior @ Denison University<br><br>💻 Interested in Full Stack Development & Cybersecurity<br><br>🤝 Open to New Grad Software Engineer/Developer Positions<br><br>👥 Looking to collaborate on Full Stack or Security-related Projects<br><br>🌱 Currently learning Advanced Algorithm Analysis & Microservices<br><br>⚡ Fun fact: I'm passionate about playing soccer, and I enjoy exploring new tech trends!
+🎓 Recent grad from Denison University<br><br>💻 Interested in Full Stack Development & Cybersecurity<br><br>🤝 Open to New Grad Software Engineer/Developer Positions<br><br>👥 Looking to collaborate on Full Stack or Security-related Projects<br><br>🌱 Currently learning Advanced Algorithm Analysis & Microservices<br><br>⚡ Fun fact: I'm passionate about playing soccer, and I enjoy exploring new tech trends!
 
 
 ## 🌐 Socials:
